@@ -18,8 +18,10 @@ The simulation aims to answer key operational questions:
 
 ## Files Included
 
-- `simulation_code.py`: Python code implementing the simulation model.
-- `analysis.ipynb`: Jupyter Notebook containing detailed analysis, visualizations, and insights derived from simulation results.
+- `factory_simulation_2_update.jl`: Julia code implementing the simulation model.
+- `factory_simulation_2_update_simharness.jl`: Simulation Harness for simulation, Executable file
+- `factory_simulation_2_update_simharness.ipynb`: Run the Jupyter notebook file
+- `factory_simulation_2_update_analysis.ipynb`: Jupyter Notebook containing detailed analysis, visualizations, and insights derived from simulation results.
 - `data/`: Directory containing relevant datasets used in the simulation and analysis.
 
 ## Usage
